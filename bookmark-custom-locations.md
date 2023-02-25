@@ -10,6 +10,9 @@ This page contains the information for setting custom browser locations for the 
 - Chromium Engine
 - C:\Users\username\AppData\Local\BraveSoftware\Brave-Browser\User Data\
 
+**Whale**
+- Chromium Engine
+- C:\Users\username\AppData\Local\Naver\Naver Whale\User Data
 
 **LibreWolf**
 - Firefox Engine
